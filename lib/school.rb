@@ -1,4 +1,7 @@
 class School 
-attr_accessor roste
+  
+attr_accessor :name, :roster
+
+
 
 end
